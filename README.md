@@ -12,7 +12,7 @@ Most of my work lives at the intersection of desktop applications, real-time gra
 - 📡 RTP/UDP streaming and media pipelines
 - 🧠 Machine learning tooling for acoustic analysis
 - 📦 Reusable Swift packages and developer libraries
-- 🦀 Increasingly trying to use Rust for all types of applications 
+- 🦀 Increasingly trying to use Rust for all types of experiments 
 - 🧪 Other interesting stuff (Linux, Javascript, Python, e t.c.)
 
 ## Principles I try to follow
