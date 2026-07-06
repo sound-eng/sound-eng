@@ -1,4 +1,4 @@
-# macOS/iOS Engineer • Audio Systems • Developer Tools
+# macOS/iOS Engineer
 
 I enjoy building software that enables people to do things they couldn’t do before - or do them better.
 
