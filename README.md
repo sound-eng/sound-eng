@@ -22,4 +22,4 @@ Most of my work lives at the intersection of desktop applications, real-time gra
 - Optimize only after measuring. Design for performance from the beginning.
 - Write code that is easy to understand six months later.
 - Prefer correctness and maintainability over cleverness.
-- Use Ai when needed but have your sight on everything it produces. Be a senior engineer and architect for it :)
+- Delegate typing to AI. Keep design and decisions your own.
