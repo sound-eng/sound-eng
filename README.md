@@ -1,6 +1,6 @@
 # macOS/iOS Engineer • Audio Systems • Developer Tools
 
-I build native macOS and iOS software with a focus on performance, reliability, and clean architecture.
+I enjoy building software that enables people to do things they couldn’t do before - or do them better.
 
 Most of my work lives at the intersection of desktop applications, real-time graphics, professional audio, networking, and low-level system programming. I enjoy turning complex technical problems into polished, maintainable software.
 
